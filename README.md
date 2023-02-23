@@ -26,7 +26,7 @@ Los pasos 1 y 2 se realizan una unica vez para poder tener el proyecto como temp
 
 2. Descargar el proyecto de github de la siguiente url: 
 
-    +    https://github.com/fredBigioni/project-template-react.git 
+    +    https://github.com/fredBigioni/template-react
     
     en la carpeta que ubicamos en el punto 1
 
